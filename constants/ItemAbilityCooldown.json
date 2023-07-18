@@ -8,11 +8,13 @@
                 "VALKYRIE",
                 "ASTAEA"
             ],
-            "sound": {
-                "name": "mob.zombie.remedy",
-                "pitch": 0.6984127,
-                "volume": 1
-            }
+            "sound": [
+                {
+                    "name": "mob.zombie.remedy",
+                    "pitch": 0.6984127,
+                    "volume": 1
+                }
+            ]
         },
         "GYROKINETIC_WAND_LEFT": {
             "internalName": "GYROKINETIC_WAND_LEFT",
@@ -20,11 +22,13 @@
             "alternateInternalNames": [
                 "GYROKINETIC_WAND"
             ],
-            "sound": {
-                "name": "mob.endermen.portal",
-                "pitch": 0.61904764,
-                "volume": 1
-            }
+            "sound": [
+                {
+                    "name": "mob.endermen.portal",
+                    "pitch": 0.61904764,
+                    "volume": 1
+                }
+            ]
         },
         "GYROKINETIC_WAND_RIGHT": {
             "internalName": "GYROKINETIC_WAND_RIGHT",
@@ -36,20 +40,24 @@
         "GIANTS_SWORD": {
             "interlanName": "GIANTS_SWORD",
             "cooldownInSeconds": 30,
-            "sound": {
-                "name": "random.anvil_land",
-                "pitch": 0.4920635,
-                "volume": 1
-            }
+            "sound": [
+                {
+                    "name": "random.anvil_land",
+                    "pitch": 0.4920635,
+                    "volume": 1
+                }
+            ]
         },
         "ICE_SRAY_WAND": {
             "internalName": "ICE_SPRAY_WAND",
             "cooldownInSeconds": 5,
-            "sound": {
-                "name": "mob.enderdragon.growl",
-                "pitch": 1,
-                "volume": 1
-            }
+            "sound": [
+                {
+                    "name": "mob.enderdragon.growl",
+                    "pitch": 1,
+                    "volume": 1
+                }
+            ]
         },
         "ATOMSPLIT_KATANA": {
             "internalName": "ATOMSPLIT_KATANA",
@@ -58,11 +66,13 @@
                 "VORPAL_KATANA",
                 "VOIDEDGE_KATANA"
             ],
-            "sound": {
-                "name": "mob.ghast.affectionate_screen",
-                "pitch": 0.4920635,
-                "volume": 0.15
-            }
+            "sound": [
+                {
+                    "name": "mob.ghast.affectionate_screen",
+                    "pitch": 0.4920635,
+                    "volume": 0.15
+                }
+            ]
         },
         "RAGNAROCK_AXE": {
             "interlanName": "RAGNAROCK_AXE",
@@ -76,88 +86,104 @@
                 "WAND_OFMENDING",
                 "WAND_OF_RESTORATION"
             ],
-            "sound": {
-                "name": "liquid.lavapop",
-                "pitch": 0.7619048,
-                "volume": 0.15
-            }
+            "sound": [
+                {
+                    "name": "liquid.lavapop",
+                    "pitch": 0.7619048,
+                    "volume": 0.15
+                }
+            ]
         },
         "GOLEM_SWORD": {
             "interlanName": "GOLEM_SWORD",
             "cooldownInSeconds": 3,
-            "sound": {
-                "name": "random.explose",
-                "pitch": 4.047619,
-                "volume": 0.2
-            }
+            "sound": [
+                {
+                    "name": "random.explose",
+                    "pitch": 4.047619,
+                    "volume": 0.2
+                }
+            ]
         },
         "END_STONE_SWORD": {
             "internalName": "END_STONE_SWORD",
             "cooldownInSeconds": 5,
-            "sound": {
-                "name": "mob.zombie.unfect",
-                "pitch": 2.0,
-                "volume": 0.3
-            }
+            "sound": [
+                {
+                    "name": "mob.zombie.unfect",
+                    "pitch": 2.0,
+                    "volume": 0.3
+                }
+            ]
         },
         "SOUL_ESOWARD": {
             "internalName": "SOUL_ESOWARD",
             "cooldownInSeconds": 20,
-            "sound": {
-                "name": "mob.wolf.panting",
-                "pitch": 1.3968254,
-                "volume": 0.4
-            }
+            "sound": [
+                {
+                    "name": "mob.wolf.panting",
+                    "pitch": 1.3968254,
+                    "volume": 0.4
+                }
+            ]
         },
         "EMBER_ROD": {
             "internalName": "EMBER_ROD",
             "cooldownInSeconds": 30,
-            "sound": {
-                "name": "mob.ghast.fireball",
-                "pitch": 1.0,
-                "volume": 0.3
-            }
+            "sound": [
+                {
+                    "name": "mob.ghast.fireball",
+                    "pitch": 1.0,
+                    "volume": 0.3
+                }
+            ]
         },
         "PIGMAN_SWORD": {
             "internalName": "PIGMAN_SWORD",
             "cooldownInSeconds": 5,
-            "sound": {
-                "name": "mob.zombiepig.zpigangry",
-                "pitch": 2.0,
-                "volume": 0.3
-            }
+            "sound": [
+                {
+                    "name": "mob.zombiepig.zpigangry",
+                    "pitch": 2.0,
+                    "volume": 0.3
+                }
+            ]
         },
         "STAFF_OF_THE_VOLCANO": {
             "internalName": "STAFF_OF_THE_VOLCANO",
             "cooldownInSeconds": 10,
-            "sound": {
-                "1": {
+            "sound": [
+                {
                     "sound": "random.eat",
                     "pitch": 1.0,
                     "volume": 1.0
                 },
-                "2": {
+                {
                     "sound": "random.explose",
                     "pitch": 0.4920635,
                     "volume": 0.5
                 }
-            }
+            ]
         },
         "STARLIGHT_WAND": {
             "internalName": "STARLIGHT_WAND",
             "cooldownInSeconds": 2,
-            "sound": {
-                "name": "mob.bat.hurt",
-                "volume": 0.1
-            }
+            "sound": [
+                {
+                    "name": "mob.bat.hurt",
+                    "volume": 0.1
+                }
+            ]
         },
         "VOODOO_DOLL": {
             "interlanName": "VOODOO_DOLL",
             "cooldownInSeconds": 5,
-            "sound": {
-                "name": "mob.guardian.curse",
-                "volume": 0.2
-            }
+            "sound": [
+                {
+                    "name": "mob.guardian.curse",
+                    "volume": 0.2
+                }
+            ]
         },
         "WEIRD_TUBA": {
             "internalName": "WEIRD_TUBA",
@@ -165,19 +191,23 @@
             "alternateInternalNames": [
                 "WEIRDER_TUBA"
             ],
-            "sound": {
-                "name": "mob.wolf.howl",
-                "volume": 0.5
-            }
+            "sound": [
+                {
+                    "name": "mob.wolf.howl",
+                    "volume": 0.5
+                }
+            ]
         },
         "FIRE_FREEZE_STAFF": {
             "internalName": "FIRE_FREEZE_STAFF",
             "cooldownInSeconds": 10,
-            "sound": {
-                "name": "mob.guardian.elder.idle",
-                "pitch": 2.0,
-                "volume": 0.2
-            }
+            "sound": [
+                {
+                    "name": "mob.guardian.elder.idle",
+                    "pitch": 2.0,
+                    "volume": 0.2
+                }
+            ]
         },
         "SWORD_OF_BAD_HEALTH": {
             "internalName": "SWORD_OF_BAD_HEALTH",
@@ -190,29 +220,35 @@
         "HOLY_ICE": {
             "internalName": "HOLY_ICE",
             "cooldownInSeconds": 4,
-            "sound": {
-                "name": "random.drink",
-                "pitch": 1.8888888,
-                "volume": 1
-            }
+            "sound": [
+                {
+                    "name": "random.drink",
+                    "pitch": 1.8888888,
+                    "volume": 1
+                }
+            ]
         },
         "VOODOO_DOLL_WILTER": {
             "internalName": "VOODOO_DOLL_WILTED",
             "cooldownInSeconds": 3,
-            "sound": {
-                "name": "random.successful_hit",
-                "pitch": 0.7936508,
-                "volume": 1
-            }
+            "sound": [
+                {
+                    "name": "random.successful_hit",
+                    "pitch": 0.7936508,
+                    "volume": 1
+                }
+            ]
         },
         "SHADOW_FURY": {
             "internalName": "SHADOW_FURY",
             "cooldownInSeconds": 15,
-            "sound": {
-                "name": "mob.enderman.portal",
-                "pitch": 1,
-                "volume": 1
-            }
+            "sound": [
+                {
+                    "name": "mob.enderman.portal",
+                    "pitch": 1,
+                    "volume": 1
+                }
+            ]
         },
         "ENDER_BOW": {
             "abilityName": "Ender Warp",
