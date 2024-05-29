@@ -71,7 +71,8 @@
       "command": "neu",
       "guiPath": [
         "io.github.moulberry.notenoughupdates.core.GuiScreenElementWrapper",
-        "io.github.moulberry.notenoughupdates.core.config.gui."
+        "io.github.moulberry.notenoughupdates.core.config.gui.",
+        "io.github.moulberry.notenoughupdates.commands.help.SettingsCommand$createConfigScreen$1"
       ]
     },
     "OneConfig": {
@@ -122,7 +123,7 @@
         "io.github.moulberry.moulconfig.gui.GuiScreenElementWrapper"
       ]
     },
-    "SkyBlock  Personalized": {
+    "SkyBlock Personalized": {
       "description": [
         "Gui Stuff ig"
       ],
@@ -138,6 +139,15 @@
       "command": "st",
       "guiPath": [
         "gg.skytils.skytilsmod.gui.OptionsGui"
+      ]
+    },
+    "SkyBlock Hud": {
+      "description": [
+        "Much stuff!"
+      ],
+      "command": "sbh",
+      "guiPath": [
+        "com.thatgravyboat.skyblockhud.core.GuiScreenElementWrapper"
       ]
     }
   }

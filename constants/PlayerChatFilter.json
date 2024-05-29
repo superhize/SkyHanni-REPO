@@ -3,42 +3,34 @@
     {
       "description": "Player is advertising their lowballing",
       "contains": [
-        "lowballing",
-        "lowbal",
-        "lowwbal"
+        "low balling",
+        "lowbal"
       ],
       "containsWord": [
-        "low balling",
-        "loballing"
-      ]
-    },
-    {
-      "description": "Player is looking for a lowballer",
-      "contains": [
-        "lowballer"
+        "lowwbal",
+        "lo-ballin",
+        "loballin",
+        "lowblling"
       ]
     },
     {
       "description": "Player wants to buy stuff",
-      "containsWord": [
+      "contains": [
+        "i buy",
+        "someone sells",
         "buying",
-        "i buy"
+        "buyin"
       ]
     },
     {
       "description": "Player wants to sell stuff",
       "contains": [
-        "check my ah",
-        "on my ah"
-      ],
-      "containsWord": [
-        "sell",
-        "selling",
-        "sellng",
-        "sellomg",
-        "seling",
         "my ah",
-        "my ahh",
+        "my auction",
+        "on ah",
+        "selling",
+        "sellin",
+        "buy my",
         "low price",
         "bid on",
         "to buy",
@@ -46,26 +38,32 @@
         "i buy",
         "check out my auction",
         "on /ah",
-        "buy quickly for",
-        "buy my auction",
-        "on ah"
+        "buy quickly for"
+      ],
+      "containsWord": [
+        "sell",
+        "sellng",
+        "sellomg",
+        "seling"
       ]
     },
     {
       "description": "Player wants to advertise a minion shop",
-      "containsWord": [
-        "minion shop"
+      "contains": [
+        "minion shop",
+        "minion store"
       ]
     },
     {
       "description": "Player wants to quit skyblock",
-      "containsWord": [
-        "quitting skyblock"
+      "contains": [
+        "quitting skyblock",
+        "quitting sb"
       ]
     },
     {
       "description": "Player wants to apply reforge stone",
-      "containsWord": [
+      "contains": [
         "applying reforges",
         "mining 30 to apply",
         "apply spiritual to"
@@ -73,7 +71,7 @@
     },
     {
       "description": "Player wants to sell building island farms",
-      "containsWord": [
+      "contains": [
         "building your farms",
         "building farms"
       ]
@@ -81,16 +79,21 @@
     {
       "description": "Player asks for free stuff",
       "contains": [
-        "at map"
-      ],
-      "containsWord": [
+        "at map",
         "upgrade my",
         "fund me",
         "donate me",
         "can someone give me",
         "got scammed",
         "dirt to hyp",
-        "give me plz"
+        "give me plz",
+        "trading from dirt to"
+      ]
+    },
+    {
+      "description": "Player want you to visit them",
+      "contains": [
+        "visit me"
       ]
     }
   ]

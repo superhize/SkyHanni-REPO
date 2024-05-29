@@ -1,163 +1,301 @@
 {
   "bingo_tips": {
-    "Ferocious": {
-      "difficulty": "medium",
+    "Scavenger (Community Goal)": {
+      "difficulty": "Easy",
       "note": [
-        "You can get this from pets like Lion and Tiger (Zoo)",
-        "and the Reforge Dirty for 3 you will need to reforge",
-        "something with uncommon or higher rarity "
+        "Get coins from the Scavenger Enchant"
+      ],
+      "guide": [
+        "Put the Scavenger Enchantment on",
+        "your weapon and kill mobs.",
+        "You will progress in this passively."
       ]
     },
-    "Sand Collector": {
-      "difficulty": "medium",
+    "Essence of Dragons (Community Goal)": {
+      "difficulty": "Easy",
       "note": [
-        "Gold Shovel in the Desert for Minions you can",
-        "also easily do this manually but will be very long"
+        "Collect Dragon Essence"
+      ],
+      "guide": [
+        "Obtained from Killing Lost Adventurers,",
+        "Redstone Warriors, sacrificing items",
+        "like Ender Gear to the Draconic Altar,",
+        "or salvaging Dragon Armor Pieces."
+      ]
+    },
+    "Agricultural Revolution (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Harvest Crops"
+      ],
+      "guide": [
+        "This counts every Crop broken by you",
+        "so crops like Sugar Cane and Cactus",
+        "progress faster."
+      ]
+    },
+    "Hunter (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Collect pelts"
+      ],
+      "guide": [
+        "Use SkyHanni's Trapper features to make this easier.",
+        "Use /warp trapper to get back to Trevor"
+      ]
+    },
+    "Goblin Slayer (Community Goal)": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill Goblins."
+      ],
+      "guide": [
+        "Kill the Goblins you can find in the Dwarven Mines.",
+        "You will need Mining 12 for this."
       ]
     },
     "Collecting Data": {
-      "difficulty": "easy",
+      "difficulty": "Easy",
       "note": [
-        "Self-explanatory "
+        "Bestiary Milestone 5"
+      ],
+      "guide": [
+        "You will most likely get this passively.",
+        "Use /be ingame to view your progress."
       ]
     },
-    "Pet Hoarder": {
-      "difficulty": "hard",
+    "Sightseer": {
+      "difficulty": "Easy",
       "note": [
-        "§aDrops ",
-        "Endermen, Bingo, Rock, Grandma, Armadillo,",
-        "Squid, Guadian, Bee, Dolphin and Tarantula",
-        "§aCollections",
-        "Griffin, Jerry, Silverfish, Pig, Rabbit, Reindeer and Zoo Pets"
+        "7 public islands"
+      ],
+      "guide": [
+        "You can visit all Islands by using /warp.",
+        "This will open the fast travel menu.",
+        "The Hub, Spider's Den, The End,",
+        "Gold Mine, Deep Caverns and Farming Isles"
       ]
     },
-    "Bedazzled": {
-      "difficulty": "medium",
+    "E=mc2": {
+      "difficulty": "Medium",
       "note": [
-        "§aCollection Talismans",
-        "Farming Talisman, Vaccine Talisman, Speed Talisman,",
-        "Potion Affinity Talisman(Upgrade to Potion Affinity Ring),",
-        "Talisman of Coins, Magnetic Talisman, Talisman of Power,",
-        "Wood Affinity Talisman, Gravity Talisman. ",
-        "§aShop Talismans",
-        "Zombie Talisman, Skeleton Talisman, Village Affinity Talisman,",
-        "Mine Affinity Talisman, Intimidation Talisman, Scavenger Talisman. ",
-        "§aMiscellaneous",
-        "Wolf Paw, Ring of Love, Campfire Trial Badge, Cat Talisman, Pig\u0027s Foot ",
-        "§aExtra:",
-        "Candy Talisman, Red Claw Talisman, Frozen Chicken,",
-        "King Talisman, Melody\u0027s Hair, Emerald Ring, Feather Talisman."
+        "Obtain a Mathematical Hoe Blueprint"
+      ],
+      "guide": [
+        "Obtained from Anita for 1 Gold Medal",
+        "and 32 Jacob Tickets. You can trade lower",
+        "medals into higher ones with Anita.",
+        "1 gold is 4 silver or 8 bronze.",
+        "Those medals will supply the tickets."
       ]
     },
-    "Amber Crystal": {
-      "difficulty": "medium",
+    "Critical": {
+      "difficulty": "Medium",
       "note": [
-        "To get this Crystal in need to talk to The King",
-        "with 3 Goblin Eggs and then go",
-        "to The Queens Area to get the Crystal"
-      ]
-    },
-    "Trouble is Brewing...": {
-      "difficulty": "medium",
-      "note": [
-        "This can be done with getting",
-        "Enchanted Sugar from the Desert",
-        "or Enchanted Gold from",
-        "Crystal Hollows (Mines of Divan) You need to",
-        "add Glowstone to make it a higher tier (Builder)"
-      ]
-    },
-    "Warrior": {
-      "difficulty": "medium",
-      "note": [
-        "This is the level you need for the",
-        "dungeon goal, killing Ice Walkers in",
-        "Dwarven until Combat 12 then killing",
-        "Endermen until Combat 15 (Get a",
-        "Void Sword from the NPC in The End (200k)"
-      ]
-    },
-    "Hard Worker": {
-      "difficulty": "hard",
-      "note": [
-        "Wheat Minion is easiest for this goal",
-        "(Total of 84,304 Wheat) "
-      ]
-    },
-    "Commission Master": {
-      "difficulty": "easy",
-      "note": [
-        "This will be automatically done",
-        "with doing the Amber Crystal Goal "
-      ]
-    },
-    "Spider Eye Collector": {
-      "difficulty": "hard",
-      "note": [
-        "Killing Spiders in Spiders Den",
-        "and making Minions"
-      ]
-    },
-    "I Am Speed": {
-      "difficulty": "easy",
-      "note": [
-        "Getting a God-splash should give you",
-        "this, if not use a Rogue Sword from Jamie in the hub"
-      ]
-    },
-    "Skill Average": {
-      "difficulty": "easy",
-      "note": [
-        "Self-explanatory "
+        "Reach 100% Crit Damage"
+      ],
+      "guide": [
+        "Reforge your Void Sword to Sharp",
+        "at the Blacksmith in the Hub (-28 69 -125),",
+        "or enchant any weapon with Critical 5 (50 Levels)."
       ]
     },
     "Exterminator": {
-      "difficulty": "hard",
+      "difficulty": "Medium",
       "note": [
-        "Self-explanatory "
+        "Kill 5k mobs"
+      ],
+      "guide": [
+        "Kill farm animals in the Barn with a Cleaver",
+        "with Cleave 5 and Sharpness 5",
+        "or spiders in Arachne's Burrow (-309 92 -209)",
+        "in the Spider's Den with a Dreadlord Sword."
       ]
     },
     "Meiser": {
-      "difficulty": "easy",
+      "difficulty": "Easy",
       "note": [
-        "Selling End Armor "
+        "500k coins in the bank"
+      ],
+      "guide": [
+        "You will most likely get this from",
+        "leveling up skills.",
+        "Remember to actually put the money",
+        "you get in the Bank :)"
+      ]
+    },
+    "Fisherman": {
+      "difficulty": "Medium",
+      "note": [
+        "Wear full Angler Armor"
+      ],
+      "guide": [
+        "This requires Raw Fish Collection 5.",
+        "You should place down fishing minions",
+        "with medium storages to help with this."
+      ]
+    },
+    "Brewer": {
+      "difficulty": "Medium",
+      "note": [
+        "Reach Alchemy 18"
+      ],
+      "guide": [
+        "Alchemy 18 is a total of 222.425 XP.",
+        "This can be done using enchanted gold",
+        "or enchanted sugar (cane)"
+      ]
+    },
+    "Lapis Warrior": {
+      "difficulty": "Medium",
+      "note": [
+        "Wear full Lapis Armor"
+      ],
+      "guide": [
+        "Those pieces are dropped from Lapis Zombies",
+        "in the Deep Caverns. They have a 1% base chance",
+        "to drop, so its recommended to enchant your",
+        "weapon with looting and luck."
+      ]
+    },
+    "An Axe To Grind": {
+      "difficulty": "Medium",
+      "note": [
+        "10 Enchantments on a Raider Axe"
+      ],
+      "guide": [
+        "Buy a Raider Axe for 130k coins",
+        "from the Melancholic Viking in The Park.",
+        "Remember: Level 1 Enchantments do count."
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "Medium",
+      "note": [
+        "Equip a Common or higher tiered Rock Pet"
+      ],
+      "guide": [
+        "You get the Rock Pet from mining ores.",
+        "The Common Rock unlocks at 2.5k broken ores."
+      ]
+    },
+    "Divan's Chance": {
+      "difficulty": "Hard",
+      "note": [
+        "Do a Nucleus run"
+      ],
+      "guide": [
+        "Amethyst: Jungle key and Temple Run,",
+        "Jade: Divan Mines and find all the items,",
+        "Amber: Find King, give him 3 goblin eggs and find the Queen,",
+        "Sapphire: 6 different Robot Parts, give them to Professor Robot,",
+        "Topaz: Kill the Bal and get the crystal after it dies",
+        "After obtaining all those crystals, place them",
+        "in the Nucleus to complete this.",
+        "§cDo not leave the lobby if u placed 1+ Crystals",
+        "§cbefore finishing the run!"
+      ]
+    },
+    "Now We're In Business": {
+      "difficulty": "Easy",
+      "note": [
+        "Craft a Diamond Spreading"
+      ],
+      "guide": [
+        "Unlocks at Diamond Collection 6 (5k).",
+        "Costs 1 Enchanted Diamond and 8 Vines",
+        "(costs 40 Jungle Leaves, needs Jungle Wood Collection 4",
+        "to unlock in the /trades ."
+      ]
+    },
+    "Dwarves Defender": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill 25 Goblins during a Goblin Raid"
+      ],
+      "guide": [
+        "Kill Goblins in the Goblin Burrows (-100 163 150)",
+        "while that event is going on.",
+        "You need Mining Level 12 to go there."
       ]
     },
     "High Score!": {
-      "difficulty": "medium",
+      "difficulty": "Medium",
       "note": [
-        "Self-explanatory "
+        "Score of 230+ in F1"
+      ],
+      "guide": [
+        "You will need Combat 15 and a completion",
+        "of the previous floor for this.",
+        "This gets a lot easier if you get help",
+        "from other players."
       ]
     },
-    "Dirty Reforger": {
-      "difficulty": "easy",
+    "Podium Position": {
+      "difficulty": "Medium",
       "note": [
-        "Reforge is from a Dirty Bottle which",
-        "is from Smithmonger in the Hub for",
-        "100k. Reforge is for Swords or",
-        "Fishing Rods. Most likely thing to",
-        "reforge is Raiders Axe or Void Sword"
+        "Silver or higher Medal in a Farming Contest"
+      ],
+      "guide": [
+        "For this you have to speak to Jacob",
+        "and be Farming Level 10 to participate.",
+        "Check the Calendar after that to see",
+        "upcoming contests. Getting an Advanced Gardening Hoe",
+        "might be helpful for this (25 Copper).",
+        "This will progress towards the Blueprint Goal."
       ]
     },
-    "Gold Ingot Collector": {
-      "difficulty": "medium",
+    "Raw Fish Collector": {
+      "difficulty": "Hard",
       "note": [
-        "Mining Gold in Mines of Divan in",
-        "Crystal Hollows and in Royal Mines",
-        "in Dwarven Mines. This can also",
-        "be done with minions"
+        "18k Raw Fish Collection"
+      ],
+      "guide": [
+        "Unlock Fishing Minions (50 Raw Fish),",
+        "buy Fish from the Fish Merchant in The Hub,",
+        "craft as many minions as you can, give them",
+        "the best fuel and storage that you have.",
+        "Don't forget to collect them in time."
       ]
     },
-    "Fairy Finder": {
-      "difficulty": "easy",
+    "New Savings": {
+      "difficulty": "Medium",
       "note": [
-        "Self-explanatory"
+        "Craft a Piggy Bank"
+      ],
+      "guide": [
+        "This unlocks at 2.5k Raw Porkchop",
+        "Collection and costs 40 Enchanted Pork",
+        "and a chest to craft. Using Minions",
+        "will make this easier give them",
+        "the best fuel and storage that you have.",
+        "Don't forget to collect them in time.",
+        "Killing Mobs in The Barn with a Cleaver",
+        "will also help you getting the material."
       ]
     },
-    "Minion Machine": {
-      "difficulty": "hard",
+    "Ultimate Enchanter": {
+      "difficulty": "Medium",
       "note": [
-        "List for all minions will be posted below"
+        "Obtain an Ultimate Enchanted Book"
+      ],
+      "guide": [
+        "You can drop this from Dungeon Chests.",
+        "It has a low chance of 0.75% to drop",
+        "in the free Chest, so make sure to",
+        "have some money ready for this."
+      ]
+    },
+    "Bedazzled": {
+      "difficulty": "Easy",
+      "note": [
+        "7 unique Accessories"
+      ],
+      "guide": [
+        "Buy all 6 Talismans for 26k",
+        "from the Adventurer in The Hub",
+        "and craft a farming talisman",
+        "(5 Hay Bales + 4 Seeds)"
       ]
     }
   }
